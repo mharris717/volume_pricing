@@ -5,3 +5,5 @@ All code is in main.rb
 All specs are in spec_volume_pricing.rb
 
 An example matching the one given is in example.rb
+
+Code assumes that if there is a price $X/unit when you buy 1, and $Y/unit when you buy 4, that the cost of 5 is 4Y + X, as opposed to 5Y.  This is how the given examples work.  
