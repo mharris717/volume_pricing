@@ -1,0 +1,7 @@
+My implementation of the volume pricing exercise.
+
+All code is in main.rb
+
+All specs are in spec_volume_pricing.rb
+
+An example matching the one given is in example.rb
